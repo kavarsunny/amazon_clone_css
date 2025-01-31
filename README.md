@@ -21,7 +21,7 @@ CSS3 (Flexbox & Grid)
 Project Structure
 
 amazon_clone_css/
-│── index.html        # Main HTML file
+│── project.html        # Main HTML file
 │── styles.css        # Stylesheet file
 │── images/           # Folder for images
 └── README.md         # Project documentation
@@ -36,7 +36,7 @@ Navigate to the project folder:
 
 cd amazon_clone_css
 
-Open index.html in a browser.
+Open project.html in a browser.
 
 
 License
