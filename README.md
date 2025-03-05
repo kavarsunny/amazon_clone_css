@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b93f0978-9aa1-47c6-adf3-76e9fb503585)# amazon_clone_css
+# amazon_clone_css
 
 This is a simple Amazon Clone built using HTML and CSS. The project replicates the homepage layout of Amazon with a responsive design.
 
