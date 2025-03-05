@@ -38,9 +38,13 @@ cd amazon_clone_css
 
 Open project.html in a browser.
 
-demo:---output:-
-![image](https://github.com/user-attachments/assets/4caf5594-7f0e-415f-8ded-c2c431939361)
-![image](https://github.com/user-attachments/assets/bd77290a-c946-4a67-ab25-05a4e0e120ae)
+## demo-output:-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd77290a-c946-4a67-ab25-05a4e0e120ae" width="45%">
+  <img src="https://github.com/user-attachments/assets/4caf5594-7f0e-415f-8ded-c2c431939361" width="45%">
+</p>
+
+
 
 
 
