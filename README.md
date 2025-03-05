@@ -39,10 +39,13 @@ cd amazon_clone_css
 Open project.html in a browser.
 
 ## demo-output:-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bd77290a-c946-4a67-ab25-05a4e0e120ae" width="45%">
-  <img src="https://github.com/user-attachments/assets/4caf5594-7f0e-415f-8ded-c2c431939361" width="45%">
-</p>
+## Output:
+
+| Image  | Description |
+|--------|------------|
+| ![Amazon Home Page](https://github.com/user-attachments/assets/bd77290a-c946-4a67-ab25-05a4e0e120ae) | **Amazon Home Page:** This is the home page of Amazon. It includes the Amazon logo, search bar, navigation menu, and various product categories. Users can browse featured deals, personalized recommendations, and best-selling products. |
+| ![Amazon Cart Page](https://github.com/user-attachments/assets/4caf5594-7f0e-415f-8ded-c2c431939361) |**category section** that helps users easily navigate through different types of products. The categories are displayed as clickable icons or a dropdown menu, allowing users to explore specific product sections.  
+
 
 
 
